@@ -31,7 +31,7 @@ Five layers that compose into a production-grade inference pyramid:
 | **Micro-model first** | `micro_model.py`: embedding centroid classifier as LLM gatekeeper | Cheapest layer, O(1) lookup |
 
 The full pyramid: `embedding-gate → fine-tuned gpt-4o-mini + confidence check → gpt-4o`  
-This is architectural thinking, not a bag of scripts.
+
 
 ---
 
