@@ -99,4 +99,4 @@ Self-hosted Qwen model on a personal VPS. Zero API costs, full control over infe
 
 ## Contact
 
-[github.com/nadzyathedude](https://github.com/nadzyathedude) · mettaton.ex18@gmail.com
+[github.com/nadzyathedude](https://github.com/nadzyathedude) · nadzyathedude@yandex.ru . tg - @nadezhda_chelyadinova
